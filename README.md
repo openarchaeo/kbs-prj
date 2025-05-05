@@ -33,7 +33,7 @@ This approach uses **data-driven inference**, not physical or resonance-based in
 - [ ] Add 3D visualization interface (e.g., VTK or Three.js)
 - [ ] Enable real-time SAR tile inference
 
-## Suggested Diagram
+## Diagram
 See `images/pipeline.png`.
 
 ## Citation Guidance
