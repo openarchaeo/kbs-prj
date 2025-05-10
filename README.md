@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15381211.svg)](https://doi.org/10.5281/zenodo.15381211)
+
 # AI-Based Inference of Subsurface Structures from SAR Data
 
 ## Overview
@@ -41,3 +43,4 @@ While not required, citation is appreciated if used in academic or derivative wo
 
 ## Acknowledgment of Landscape
 This implementation represents one possible path toward non-invasive SAR-based subsurface mapping. It is distinct from analytic or physics-modeled approaches, and offered here to broaden exploratory and collaborative research potential.
+
